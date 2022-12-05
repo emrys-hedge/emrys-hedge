@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ohai.
+
+I'm an errant philosopher who's just beginning my coding journey. To help me start out, I'm working through Harvard's CS50x course.
+
+He/him/his [Why Pronouns Matter](https://pronouns.org/what-and-why)
 
 <!--
 **emrys-hedge/emrys-hedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
